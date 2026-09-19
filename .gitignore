@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# 测试 / 构建
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 打包
+dist/
+build/
+*.egg-info/

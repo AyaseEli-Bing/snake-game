@@ -1,0 +1,6 @@
+# Snake 仅依赖 Python 标准库 tkinter，无需第三方包。
+# 本文件仅留作说明，表明项目意图零外部依赖。
+# 兼容 Python 3.8 及以上。
+
+# 直接运行：
+#     python3 snake_game.py
